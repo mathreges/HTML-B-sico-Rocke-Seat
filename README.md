@@ -1,1 +1,2 @@
-# HTML-B-sico-Rocke-Seat
+# HTML-Basico-Rocke-Seat
+Curso gratuito de HTML da RocketSeat
